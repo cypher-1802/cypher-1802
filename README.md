@@ -7,6 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/safiya-amin-907386206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safiya-amin-907386206" height="30" width="40" /></a>
 <a href="https://fb.com/safiya.amin.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiya.amin.923" height="30" width="40" /></a>
+<br><br>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/cypher1802.png" alt="TryHackMe">
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
